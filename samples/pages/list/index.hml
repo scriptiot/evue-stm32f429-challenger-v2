@@ -1,0 +1,25 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Running Record</text>
+    <list class="list-container">
+        <list-item class="list-item">
+            <image src="common/images/speed.png"></image>
+            <text style="top: 20px;left: 178px;color: white;width: 150px;height: 25px;font-size: 20px;">Total distance</text>
+            <text style="top: 50px;left: 178px;color: white;width: 100px;height: 35px;font-size: 30px;">100.42</text>
+            <text style="top: 58px;left: 275px;color: white;width: 100px;height: 25px;font-size: 20px;">KM</text>
+        </list-item>
+        <list-item class="list-item">
+            <image src="common/images/distance.png"></image>
+            <text style="top: 20px;left: 178px;color: white;width: 150px;height: 25px;font-size: 20px;">Sport time</text>
+            <text style="top: 50px;left: 178px;color: white;width: 100px;height: 35px;font-size: 30px;">07:23:39</text>
+            <!-- <text style="top: 58px;left: 290px;color: white;width: 100px;height: 25px;font-size: 20px;">KM</text> -->
+        </list-item>
+        <list-item class="list-item">
+            <image src="common/images/hotpower.png"></image>
+            <text style="top: 20px;left: 178px;color: white;width: 150px;height: 25px;font-size: 20px;">Calories</text>
+            <text style="top: 50px;left: 178px;color: white;width: 100px;height: 35px;font-size: 30px;">2755</text>
+            <text style="top: 58px;left: 258px;color: white;width: 100px;height: 25px;font-size: 20px;">Kcal</text>
+        </list-item>
+    </list>
+
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

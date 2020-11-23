@@ -1,0 +1,13 @@
+<div class="container">
+    <text style="top: 20px;font-size: 30px;width: 390px;height: 35px;text-align: center;color: white;">Heart Rate Curve</text>
+    <chart style="left: 40px;top: 58px;width: 300px;height: 200px;background-color: black;border-width: 0px;"></chart>
+    <text style="font-size: 20px;top: 263px;left: 40px;color: white;width: 180px;height: 25px;">00:00:00</text>
+    <text style="font-size: 20px;top: 263px;left: 242px;color: white;width: 180px;height: 25px;">01:08:14</text>
+    <text style="font-size: 20px;top: 298px;left: 118px;width: 150px;height: 25px;">Max/158</text>
+    <text style="font-size: 20px;top: 298px;left: 198px;width: 150px;height: 25px;">Min/73</text>
+    <text style="font-size: 20px;top: 328px;left: 108px;width: 70px;height: 20px;">Average</text>
+    <text style="font-size: 30px;top: 318px;left: 168px;color: white;width: 72px;height: 30px;">144</text>
+    <text style="font-size: 20px;top: 328px;left: 228px;width: 70px;height: 20px;">Count/Minute</text>
+
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

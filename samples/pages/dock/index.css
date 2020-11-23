@@ -1,0 +1,71 @@
+.container {
+    width: 390px;
+    height: 390px;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-radius: 0px;
+    border-color: red;
+    background-color: black;
+}
+
+.list-container {
+    width: 390px;
+    height: 300px;
+    left: 10px;
+    top: 70px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.list-item {
+    width: 390px;
+    height: 75px;
+    left: 10px;
+    top: 0px;
+    background-color: black;
+    border-width: 0px;
+    border-color: red;
+}
+
+.app-icon {
+    top: 3px;
+    left: 48px;
+}
+
+.arrow-icon {
+    top: 0px;
+    left: 268px;
+}
+
+.maintitle {
+    top: 25px;
+    left: 128px;
+    color: white;
+    width: 160px;
+    height: 25px;
+    /* font-family: simsun; */
+    font-size: 20px;
+    border-width: 0px;
+    border-color: red;
+}
+
+.maintitle-note {
+    top: 58px;
+    left: 228px;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-family: simsun;
+    font-size: 20px;
+}
+
+.subtitle {
+    top: 20px;
+    left: 148px;
+    color: white;
+    width: 100px;
+    height: 25px;
+    font-family: simsun;
+    font-size: 20px;
+}

@@ -1,0 +1,22 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Phone</text>
+    <list class="list-container">  
+        <list-item class="list-item" url="pages/note/index" onclick="onPageRedirect">
+            <image src="common/images/appbar.smiley.kiki.png" class="app-icon"></image>
+            <text class="maintitle">Address Book</text>          
+        </list-item>
+         <list-item class="list-item" url="pages/keyboard/index" onclick="onPageRedirect">
+            <image src="common/images/appbar.smiley.tounge.png" class="app-icon"></image>
+            <text class="maintitle">Dial Pad</text>                   
+        </list-item>
+         <list-item class="list-item" url="pages/call-records/index" onclick="onPageRedirect">
+            <image src="common/images/appbar.foot.png" class="app-icon"></image>
+            <text class="maintitle">Call List</text>                    
+        </list-item>
+         <list-item class="list-item" url="pages/voice/index" onclick="onPageRedirect">
+            <image src="common/images/appbar.fingerprint.png" class="app-icon"></image>
+            <text class="maintitle">Voice Message</text>                    
+        </list-item>
+    </list>
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

@@ -1,0 +1,19 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Dial Pad</text>
+    <div class="list-container">
+        <div class="list-item" style="left: 10px;top: 10px;"><text class="number">1</text></div>
+        <div class="list-item" style="left: 105px;top: 10px;"><text class="number">2</text></div>
+        <div class="list-item" style="left: 200px;top: 10px;"><text class="number">3</text></div>
+        <div class="list-item" style="left: 10px;top: 65px;"><text class="number">4</text></div>
+        <div class="list-item" style="left: 105px;top: 65px;"><text class="number">5</text></div>
+        <div class="list-item" style="left: 200px;top: 65px;"><text class="number">6</text></div>
+        <div class="list-item" style="left: 10px;top: 120px;"><text class="number">7</text></div>
+        <div class="list-item" style="left: 105px;top: 120px;"><text class="number">8</text></div>
+        <div class="list-item" style="left: 200px;top: 120px;"><text class="number">9</text></div>
+        <div class="list-item" style="left: 10px;top: 175px;"><text class="number">+</text></div>
+        <div class="list-item" style="left: 105px;top: 175px;"><text class="number">0</text></div>
+        <div class="list-item" style="left: 200px;top: 175px;" onclick="onCall"><text style="top: 15px;left: 0px;width: 90px;
+            height: 50px;text-align: center;color: black;font-size: 20px;">Dial</text></div>
+    </div>
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

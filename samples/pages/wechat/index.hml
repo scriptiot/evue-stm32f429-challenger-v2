@@ -1,0 +1,34 @@
+<div class="container">
+    <text style="top: 20px;width: 390px;height: 35px;text-align: center;font-size: 30px;">Wechat</text>
+    <list class="list-container">
+        <list-item class="list-item">
+            <text class="main-title">Dog egg</text>
+            <text class="subtitle">good evening</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Wang Dahui</text>
+            <text class="subtitle">Eat banana</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Xiao Fuki</text>
+            <text class="subtitle">the weather is nice today</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Erhanzi</text>
+            <text class="subtitle">Eat breakfast tomorrow morning</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Pharaoh next door</text>
+            <text class="subtitle">Eat breakfast tomorrow morning</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Li Yuanba</text>
+            <text class="subtitle">Eat breakfast tomorrow morning</text>  
+        </list-item>
+        <list-item class="list-item">
+            <text class="main-title">Avanti</text>
+            <text class="subtitle">Eat breakfast tomorrow morning</text>  
+        </list-item>
+    </list>
+    <image src="common/images/appbar.return.bin" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

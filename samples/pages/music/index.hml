@@ -1,0 +1,14 @@
+<div class="container">
+    <image src="common/images/pingfanzhilu.png"></image>
+    <div class="container-wrap">
+        <text style="top: 18px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Ping Fan Zhi Lu</text>
+        <text style="top: 48px;color: white;width: 390px;height: 25px;text-align: center;font-size: 20px;">Pu Shu</text>
+        <image src="common/images/appbar.control.fastforward.png" style="top: 118px;left: 32px;"></image>
+        <image src="common/images/appbar.control.pause.png" style="top: 118px;left: 148px;"></image>
+        <image src="common/images/appbar.control.rewind.png" style="top: 118px;left: 258px;"></image>
+        <image src="common/images/appbar.repeat.png" style="top: 248px;left: 32px;"></image>
+        <image src="common/images/appbar.sound.3.png" style="top: 248px;left: 148px;"></image>
+        <image src="common/images/appbar.new.window.png" style="top: 248px;left: 258px;"></image>
+    </div>
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

@@ -1,0 +1,10 @@
+<div class="container">
+    <progress type="arc" percent="30" class="out-layer-ring"></progress>
+    <text style="top: 68px;color: white;font-size: 20px;width: 390px;height: 25px;text-align: center;">Recovery Time</text>
+    <image src="common/images/appbar.smiley.what.bin"></image>
+    <text style="top: 188px;color: white;font-size: 30px;width: 390px;height: 35px;text-align: center;">2</text>
+    <text style="top: 228px;color: white;font-size: 20px;width: 390px;height: 25px;text-align: center;">Hour</text>
+    <text style="top: 288px;width: 390px;height: 25px;text-align: center;font-size: 20px;">Updating......</text>
+    <!-- <marquee scrollamount="300" style="top: 280px;left: 180px;width: 100px;height: 100px;text-align: center;margin-top: 10px;color: red;font-size: 30px;font-family: simsun;border-width: 1px;border-color: red;">HelloWorld</marquee> -->
+    <image src="common/images/appbar.return.bin" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

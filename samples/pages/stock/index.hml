@@ -1,0 +1,24 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Stock</text>
+    <list class="list-container">
+        <list-item class="list-item">
+            <text style="top: 0px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">China Mobile</text>
+            <text style="top: 25px;left: 20px;color: red;width: 280px;height: 25px;font-size: 20px;">0.00</text>
+            <text style="top: 50px;left: 20px;color: red;width: 280px;height: 25px;font-size: 20px;">0.00(up)</text>
+            <text style="top: 75px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">NULL</text>
+        </list-item>
+        <list-item class="list-item">
+            <text style="top: 0px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">China Unicom</text>
+            <text style="top: 25px;left: 20px;color: green;width: 280px;height: 25px;font-size: 20px;">0.00</text>
+            <text style="top: 50px;left: 20px;color: green;width: 280px;height: 25px;font-size: 20px;">0.00(down)</text>
+            <text style="top: 75px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">NULL</text>
+        </list-item>      
+        <list-item class="list-item">
+            <text style="top: 0px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">China Telecom</text>
+            <text style="top: 25px;left: 20px;color: red;width: 280px;height: 25px;font-size: 20px;">0.00</text>
+            <text style="top: 50px;left: 20px;color: red;width: 280px;height: 25px;font-size: 20px;">0.00(up)</text>
+            <text style="top: 75px;left: 20px;color: white;width: 280px;height: 25px;font-size: 20px;">NULL</text>     
+        </list-item>
+    </list>
+    <image src="common/images/appbar.return.bin" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

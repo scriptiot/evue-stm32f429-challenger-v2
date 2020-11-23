@@ -1,0 +1,15 @@
+.container {
+    width: 390px;
+    height: 390px;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-radius: 0px;
+    background-color: black;
+}
+
+.icon-img {
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+}

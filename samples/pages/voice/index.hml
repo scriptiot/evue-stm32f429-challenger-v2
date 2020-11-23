@@ -1,0 +1,9 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Voice Message</text>
+    <list class="list-container">
+        <list-item class="list-item" url="pages/call/index" onclick="onPageRedirect">
+            <text class="maintitle">No records.</text>
+        </list-item>
+    </list>
+    <image src="common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

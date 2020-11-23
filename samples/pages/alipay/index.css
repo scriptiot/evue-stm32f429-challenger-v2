@@ -1,0 +1,43 @@
+.container {
+    width: 390px;
+    height: 390px;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-radius: 0px;
+    background-color: black;
+}
+
+.list-container {
+    width: 390px;
+    height: 300px;
+    left: 0px;
+    top: 70px;
+    border-width: 0px;
+    border-radius: 0px;
+    background-color: black;
+}
+
+.list-item {
+    width: 390px;
+    height: 80px;
+    left: 0px;
+    background-color: black;
+    border-width: 0px;
+    border-color: red;
+}
+
+.app-icon {
+    top: 20px;
+    left: 50px;
+}
+
+.maintitle {
+    top: 40px;
+    left: 130px;
+    color: white;
+    width: 200px;
+    height: 25px;
+    font-size: 20px;
+}
+

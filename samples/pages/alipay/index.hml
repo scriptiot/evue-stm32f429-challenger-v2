@@ -1,0 +1,30 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Alipay</text>
+    <list class="list-container">
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/flipboard.png" class="app-icon"></image>
+            <text class="maintitle">Payment code</text>
+        </list-item>      
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/dribbble.png" class="app-icon"></image>
+            <text class="maintitle">Collection code</text>         
+        </list-item>
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/evernote.png" class="app-icon"></image>
+            <text class="maintitle">Receive energy</text>          
+        </list-item>
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/twitter.png" class="app-icon"></image>
+            <text class="maintitle">Check income</text>          
+        </list-item>
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/rss.png" class="app-icon"></image>
+            <text class="maintitle">Check exchange rate</text>          
+        </list-item>
+        <list-item class="list-item" url="pages/qrode/index" onclick="onPageRedirect">
+            <image src="common/images/pocket.png" class="app-icon"></image>
+            <text class="maintitle">Payment settings</text>          
+        </list-item>
+    </list>
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

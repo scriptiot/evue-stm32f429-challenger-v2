@@ -1,0 +1,10 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Call Records</text>
+    <list class="list-container">
+        <list-item class="list-item" ><text class="maintitle">10086</text></list-item>
+        <list-item class="list-item" ><text class="maintitle">13695874562</text></list-item>
+        <list-item class="list-item" ><text class="maintitle">12306</text></list-item>
+        <list-item class="list-item" ><text class="maintitle">12345</text></list-item>
+    </list>
+    <image src="common/images/appbar.return.png" style="top: 148px;left: 10px;" onclick="onReturn"></image>
+</div>

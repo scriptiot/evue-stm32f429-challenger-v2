@@ -1,0 +1,15 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Address Book</text>
+    <list class="list-container">
+        <list-item class="list-item"><text class="maintitle">Pony Ma</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Jack Ma</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Elon Musk</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Mark Zuckerberg</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Ma MingZhe</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Ma WeiHua</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Mark Twain</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Karl Heinrich Marx</text></list-item>
+        <list-item class="list-item"><text class="maintitle">Gabriel García Márquez</text></list-item>
+    </list>
+    <image src="common/images/appbar.return.png" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

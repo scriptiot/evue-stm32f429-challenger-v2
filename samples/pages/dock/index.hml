@@ -1,0 +1,75 @@
+<div class="container">
+    <text style="top: 20px;color: white;width: 390px;height: 35px;text-align: center;font-size: 30px;">Menu</text>
+    <list class="list-container">
+        <list-item class="list-item" url="pages/home/index" onclick="onPageRedirect">
+            <image src="common/images/dribbble.png" class="app-icon"></image>
+            <text class="maintitle">Home</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/call/index" onclick="onPageRedirect">
+            <image src="common/images/evernote.png" class="app-icon"></image>
+            <text class="maintitle">Phone</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/wechat/index" onclick="onPageRedirect">
+            <image src="common/images/youtube.png" class="app-icon"></image>
+            <text class="maintitle">Wechat</text>         
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/alipay/index" onclick="onPageRedirect">
+            <image src="common/images/evernote.png" class="app-icon"></image>
+            <text class="maintitle">Alipay</text>          
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/chart/index" onclick="onPageRedirect">
+            <image src="common/images/flipboard.png" class="app-icon"></image>
+            <text class="maintitle">Fitness</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/music/index" onclick="onPageRedirect">
+            <image src="common/images/pocket.png" class="app-icon"></image>
+            <text class="maintitle">Music</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/weather/index" onclick="onPageRedirect">
+            <image src="common/images/rss.png" class="app-icon"></image>
+            <text class="maintitle">Weather</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/stock/index" onclick="onPageRedirect">
+            <image src="common/images/flipboard.png" class="app-icon"></image>
+            <text class="maintitle">Stock</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>     
+        <list-item class="list-item" url="pages/list/index" onclick="onPageRedirect">
+            <image src="common/images/twitter.png" class="app-icon"></image>
+            <text class="maintitle">Running</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/upgrade/index" onclick="onPageRedirect">
+            <image src="common/images/whatsapp.png" class="app-icon"></image>
+            <text class="maintitle">Upgrade</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/settings/index" onclick="onPageRedirect">
+            <image src="common/images/flipboard.png" class="app-icon"></image>
+            <text class="maintitle">Settings</text>          
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/about-djf/index" onclick="onPageRedirect">
+            <image src="common/images/dribbble.png" class="app-icon"></image>
+            <text class="maintitle">Wechat Group</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/about-qq/index" onclick="onPageRedirect">
+            <image src="common/images/evernote.png" class="app-icon"></image>
+            <text class="maintitle">QQ Group</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+        <list-item class="list-item" url="pages/about-gzh/index" onclick="onPageRedirect">
+            <image src="common/images/flipboard.png" class="app-icon"></image>
+            <text class="maintitle">Public Account</text>
+            <image src="common/images/appbar.chevron.right.png" class="arrow-icon"></image>
+        </list-item>
+    </list>
+</div>

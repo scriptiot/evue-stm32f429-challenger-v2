@@ -1,0 +1,7 @@
+<div class="container">
+    <image src="common/images/evue-logo.png" style="top: 38px;left: 118px;"></image>
+    <marquee scrollamount="50" style="top: 208px;left: 72px;width: 240px;height: 35px;text-align: center;color: white;font-size: 30px;">Hello Developer!</marquee>
+    <text style="top: 248px;color: white;font-size: 20px;width: 390px;height: 25px;text-align: center;">Power by EVM</text>
+
+    <progress type="horizontal" percent="30" class="out-layer-ring" style="top: 288px;left: 98px;"></progress>
+</div>

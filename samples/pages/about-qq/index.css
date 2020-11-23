@@ -1,0 +1,23 @@
+.qr-code {
+    animation-name: xxx;
+    animation-delay: 0;
+    animation-duration: 200;
+    animation-timing-function: linear;
+    animation-fill-mode: none;
+    animation-iteration-count: 1;
+    animation-property: y;
+    animation-property-from: 0;
+    animation-property-to: 58;
+}
+
+text {
+    animation-name: text;
+    animation-delay: 200;
+    animation-duration: 200;
+    animation-timing-function: linear;
+    animation-fill-mode: none;
+    animation-iteration-count: 1;
+    animation-property: x;
+    animation-property-from: 0;
+    animation-property-to: 95;
+}

@@ -1,0 +1,12 @@
+<div class="container">
+    <text style="top: 30px;color: white;width: 454px;height: 25px;text-align: center;font-size: 20px;">08:12</text>
+    <image src="common/images/girl.png" style="top: 70px;left: 150px;border-radius: 50%;"></image>
+    <text style="top: 230px;color: white;width: 454px;height: 35px;text-align: center;font-size: 30px;font-family: simsun;">张沫凡</text>
+    <text style="top: 270px;color: white;width: 454px;height: 25px;text-align: center;font-size: 20px;">00:02</text>
+    <div class="list-container">
+        <image src="common/images/voice.png" class="icon-img"></image>
+        <image src="common/images/phone.png" class="icon-img"></image>
+        <image src="common/images/microphone.png" class="icon-img"></image>
+    </div>
+    <image src="common/images/appbar.return.png" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>
